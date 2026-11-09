@@ -6,3 +6,5 @@ psycopg2-binary
 python-dotenv
 pydantic[email]
 email-validator
+bcrypt==4.3.0
+PyJWT[crypto]
