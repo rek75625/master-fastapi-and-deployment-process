@@ -8,3 +8,5 @@ pydantic[email]
 email-validator
 bcrypt==4.3.0
 PyJWT[crypto]
+redis
+python-multipart 
